@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakarie idiris</h1>
 <h3 align="center">A Waiting ⌛software engineer from Somaliland</h3
-  <img align="rigth" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+ <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 - 🔭 I’m currently working on [Chatplus Project](www.chatplus.com)
