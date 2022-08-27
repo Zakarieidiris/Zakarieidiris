@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Zakarie idiris</h1>
 <h3 align="center">A Waiting ⌛software engineer from Somaliland</h3
- <img align="right" height="250"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+ <img align="right" height="50"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")" alt="Github Stats" style="max-width: 100%;">
 
 
