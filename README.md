@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakarie idiris</h1>
 <h3 align="center">A Waiting ⌛software engineer from Somaliland</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/zakarie_idiris" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/zakarie_idiris?logo=twitter&style=for-the-badge" alt="https://twitter.com/zakarie_idiris" /></a> </p>
-
 - 🔭 I’m currently working on [Chatplus Project](www.chatplus.com)
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,PHYTON,JAVA ⌛**
