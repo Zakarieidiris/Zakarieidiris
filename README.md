@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://sakariyeidiris.wordpress.com/](https://sakariyeidiris.wordpress.com/)
 
-- 💬 Ask me about **the languages and skilled and mentioned down**
+- 💬 Ask me about **the technology and skills i mentioned down**
 
 - 📫 How to reach me **iamzakarieidiris@gmail.com**
 
