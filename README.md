@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakarieidiris&show_icons=true&locale=en&layout=compact" alt="zakarieidiris" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakarieidiris&" alt="zakarieidiris" /></p>
